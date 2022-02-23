@@ -1,0 +1,11 @@
+F:\visual studio\repos\EZPicturteConverter\EZPicturteConverter\bin\Debug\EZPicturteConverter.exe.config
+F:\visual studio\repos\EZPicturteConverter\EZPicturteConverter\bin\Debug\EZPicturteConverter.exe
+F:\visual studio\repos\EZPicturteConverter\EZPicturteConverter\bin\Debug\EZPicturteConverter.pdb
+F:\visual studio\repos\EZPicturteConverter\EZPicturteConverter\obj\Debug\EZPicturteConverter.csproj.AssemblyReference.cache
+F:\visual studio\repos\EZPicturteConverter\EZPicturteConverter\obj\Debug\EZPicturteConverter.csproj.SuggestedBindingRedirects.cache
+F:\visual studio\repos\EZPicturteConverter\EZPicturteConverter\obj\Debug\EZPicturteConverter.Properties.Resources.resources
+F:\visual studio\repos\EZPicturteConverter\EZPicturteConverter\obj\Debug\EZPicturteConverter.csproj.GenerateResource.cache
+F:\visual studio\repos\EZPicturteConverter\EZPicturteConverter\obj\Debug\EZPicturteConverter.csproj.CoreCompileInputs.cache
+F:\visual studio\repos\EZPicturteConverter\EZPicturteConverter\obj\Debug\EZPicturteConverter.exe
+F:\visual studio\repos\EZPicturteConverter\EZPicturteConverter\obj\Debug\EZPicturteConverter.pdb
+F:\visual studio\repos\EZPicturteConverter\EZPicturteConverter\obj\Debug\EZPicturteConverter.Form_converter.resources
